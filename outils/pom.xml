@@ -7,7 +7,7 @@
 	  <groupId>norsys.demo.outils</groupId>
           <artifactId>norsys-demo-outils</artifactId>
 	  <packaging>jar</packaging>
-  	  <version>1.1</version>
+  	  <version>1.2-SNAPSHOT</version>
 	  <name>norsys-demo-outils</name>
 	  <url>http://maven.apache.org</url>
 

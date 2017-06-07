@@ -1,6 +1,6 @@
-package com.norsys.main;
+package norsys.demo.main;
 
-import com.norsys.outils.Calculatrice;
+import norsys.demo.outils.Calculatrice;
 
 public class Main{
     public static void main( String[] args ){

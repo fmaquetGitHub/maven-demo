@@ -1,4 +1,4 @@
-package com.norsys.outils;
+package norsys.demo.outils;
 
 public class Calculatrice {
 

@@ -1,4 +1,4 @@
-package com.norsys.main;
+package demo.norsys.main;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
